@@ -42,7 +42,7 @@ export default function About() {
     },
     {
       year: "2020 – 2025",
-      title: " Software Engineer",
+      title: " Software Engineer and developer.",
       place: "Freelance & Personal Projects",
       icon: <Heart size={28} />,
       desc: "Now building the very systems that bring banking to rural Ethiopia — full circle."
